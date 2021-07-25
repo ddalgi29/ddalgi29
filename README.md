@@ -13,6 +13,6 @@
 > linkedin: Joe Gorst
 > twitter: ddalgi.29
 > github: https://github.com/ddalgi29
-> ich.io: https://ddalgi29.itch.io/
+> itch.io: https://ddalgi29.itch.io/
 > email: gorst.joe@gmail.com
 ````
