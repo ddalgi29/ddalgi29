@@ -6,9 +6,7 @@
 > studying computer science
 > knows: python, tensorflow, pytorch, c#, unity
 > learning: javascript and html/css
-> 
 ````
-
 ````bash
 > contact info:
 >
