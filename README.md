@@ -11,8 +11,8 @@
 > contact info:
 >
 > linkedin: https://www.linkedin.com/in/joe-gorst-075151218/
-> twitter: yre5tra
-> github: https://github.com/yre5tra
+> twitter: @yre5tra
+> codpen: https://codepen.io/yre5tra
 > itch.io: https://yre5tra.itch.io/
 > email: gorst.joe@gmail.com
 ````
