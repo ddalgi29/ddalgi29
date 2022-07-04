@@ -16,13 +16,6 @@
     <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-- 🎓 September 2022 - MSci Computer Science
-- 💻 Algorithms and Data Structures intern @ [OpenGenusIQ](https://iq.opengenus.org/author/joe/)
-- 🌱 Developing my JavaScipt skills - check out my work [here](https://editor.p5js.org/yre5tra/sketches) 
-- 💬 Talk to me about music 🎼, data structures 🗄️, and geography 🌍
-- ⭐ Social Media: [linktree](https://linktr.ee/yre5tra)
-- 🌴 Check out my website [here](https://yre5tra.github.io/)
-
 ## Languages and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
