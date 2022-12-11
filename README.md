@@ -43,5 +43,4 @@
 
 ---
   <img alt="ReadmeJokes" src="https://readme-jokes-seven.vercel.app/api" />
-  
 ---
