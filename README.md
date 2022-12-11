@@ -41,15 +41,6 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
 
-## Articles written by me
-
-
-- [Reservoir Sampling Technique &lpar;OpenGenusIQ&rpar;](https://iq.opengenus.org/reservoir-sampling/)
-- [Code Generation in Compiler Design &lpar;OpenGenusIQ&rpar;](https://iq.opengenus.org/code-generation-in-compiler-design/)
-- [Lazy Code Motion in Complier Optimisation &lpar;OpenGenusIQ&rpar;](https://iq.opengenus.org/lazy-code-motion/)
-- [Randomised Algorithms &lpar;OpenGenusIQ&rpar;](https://iq.opengenus.org/randomized-algorithms/)
-- [Constant Propagation in Compiler Design &lpar;OpenGenusIQ&rpar;](https://iq.opengenus.org/constant-propagation-in-compiler-design/)
-
 ---
   <img alt="ReadmeJokes" src="https://readme-jokes-seven.vercel.app/api" />
   
